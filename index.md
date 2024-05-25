@@ -17,6 +17,7 @@ I am a Highschool student studying in Luxembourg.
 
 
 
-{% include_relative _includes/publications.md %}
+<!--- {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %}--->
+
